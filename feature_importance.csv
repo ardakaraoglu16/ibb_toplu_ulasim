@@ -1,0 +1,9 @@
+Feature,Importance
+transition_hour,0.04661354
+day_of_week,0.034702934
+is_weekend,0.021601938
+lag_1,0.24955732
+lag_24,0.050045338
+rolling_3,0.021606829
+is_peak,0.50771326
+period,0.06815883
