@@ -223,7 +223,7 @@ with tab2:
 
     c1.metric("📉 MAE","5.476")
 
-    c2.metric("📊 RMSE","8.987")
+    #c2.metric("📊 RMSE","8.987")
 
     c3.metric("🎯 Doğruluk","%99.60")
 
